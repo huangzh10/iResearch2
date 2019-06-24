@@ -199,9 +199,9 @@ dependencies:
   - protobuf==3.2.0
   - rope-py3k==0.9.4.post1
   - tables==3.3.0
-  - tensorflow==1.0.0
+  - tensorflow==1.12.2
   - theano==0.8.2
   - tqdm==4.11.2
-  - moviepy
+  - moviepy==0.2.3.5
   - keras_tqdm
   - scikit-image
