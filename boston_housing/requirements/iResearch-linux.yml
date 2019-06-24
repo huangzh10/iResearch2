@@ -70,5 +70,6 @@ dependencies:
   - webencodings==0.5.1
   - widgetsnbextension==2.0.0
   - moviepy==0.2.3.5
+  - cvxpy==0.4.10
   - keras_tqdm
   - scikit-image
