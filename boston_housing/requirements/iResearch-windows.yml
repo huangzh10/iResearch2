@@ -94,6 +94,7 @@ dependencies:
   - tqdm==4.11.2
   - win-unicode-console==0.5
   - moviepy==0.2.3.5
+  - cvxpy==0.4.10
   - keras_tqdm
   - scikit-image
 
