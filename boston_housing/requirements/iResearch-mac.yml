@@ -203,5 +203,6 @@ dependencies:
   - theano==0.8.2
   - tqdm==4.11.2
   - moviepy==0.2.3.5
+  - cvxpy==0.4.10
   - keras_tqdm
   - scikit-image
